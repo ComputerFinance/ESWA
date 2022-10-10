@@ -13,11 +13,11 @@ This is the repository of the Python 3.7.13 language code associated with the pa
 | 05-Portfolio_Optimization.ipynb       | Optimal portfolio formation.|
 
 ## Instructions
-3) Download [zip file](https://github.com/ComputerFinance/ESWA/archive/master.zip) from this repository.
+1) Download [zip file](https://github.com/ComputerFinance/ESWA/archive/master.zip) from this repository.
 
-4) Unzip the content of zip file in a personal folder.
+2) Unzip the content of zip file in a personal folder.
 
-5) Run the first script and the others in the sequence in an orderly way to reproduce all results from the paper.
+3) Run the first script and the others in the sequence in an orderly way to reproduce all results from the paper.
 
 If these steps don't work for you, please [let us know](https://github.com/ComputerFinance/ESWA/issues) by reporting OS (windows/linux/mac), Python version and error code (if any).
 
