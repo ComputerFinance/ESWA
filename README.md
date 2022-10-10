@@ -10,7 +10,7 @@ This is the repository of the Python 3.7.13 language code associated with the pa
 | 02-df_SP500_Final.xlsx                | Fundamentalist and technical variables of Standard and Poor’s 500 extracted via Economatica's platform ([link](https://economatica.com/)).|
 | 03-Requirements.txt                   | Installed libraries.|
 | 04-XXXXXXXXXX.xlsx                    | Asset dimension reduction.|
-| 05-Portfolio_Optimization.ipynb       | optimal portfolio formation.|
+| 05-Portfolio_Optimization.ipynb       | Optimal portfolio formation.|
 
 ## Instructions
 3) Download [zip file](https://github.com/ComputerFinance/ESWA/archive/master.zip) from this repository.
