@@ -7,7 +7,7 @@ This is the repository of the Python 3.7.13 language code associated with the pa
 |---------------------------------------|-------------------------------------------------------------------------------------------------|
 | 00-df_Ibov_Final.xlsx                 | Fundamentalist and technical variables of Ibovespa extracted via Economatica's platform ([link](https://economatica.com/)).|
 | 01-df_SP500_Final.xlsx                | Fundamentalist and technical variables of Standard and Poor’s 500 extracted via Economatica's platform ([link](https://economatica.com/)).|
-| 02-Requirements.txt                   | Installed libraries.|
+| 02-requirements.txt                   | Installed libraries.|
 | 03-XXXXXXXXXX.ipynb                   | Asset dimension reduction.|
 | 04-Prices.xlsx                        | Daily asset closing prices and indexes extracted via Yahoo Finance ([link](https://finance.yahoo.com)).|
 | 05-Portfolio_Optimization.ipynb       | Optimal portfolio formation.|
