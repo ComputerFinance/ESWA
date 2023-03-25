@@ -1,5 +1,5 @@
 # Clustering Approach for Portfolio Optimization
-This is the repository of the Python 3.7.13 language code associated with the paper "Clustering Approach for Portfolio Optimization," submitted to the Expert Systems with Applications (ESWA) in November 2022. The full paper is available at ESWA  ([link](https://www.sciencedirect.com/journal/expert-systems-with-applications)).
+This is the repository of the Python 3.7.13 language code associated with the paper "Clustering Approach for Portfolio Optimization," submitted to the Expert Systems with Applications (ESWA) in March 2023. The full paper is available at ESWA  ([link](https://www.sciencedirect.com/journal/expert-systems-with-applications)).
 
 ## Python scripts and database available 
 
